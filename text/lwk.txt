@@ -1,3 +1,9 @@
+厦门频道#genre#
+厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+厦门1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
+厦门2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
+厦门3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
+
 央视频道,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -17,8 +23,4 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-厦门频道#genre#
-厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
-厦门1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
-厦门2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
-厦门3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
+
