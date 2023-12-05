@@ -2,13 +2,13 @@
 厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 厦门卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
 厦门卫视,http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-厦门卫视,http://223.110.245.159/ott.js.ch ... 21226996/index.m3u8
-厦门卫视,http://223.110.246.73/ott.js.chi ... 21226996/index.m3u8
-厦门卫视,http://39.135.53.199/ott.fj.chin ... 21226964/index.m3u8
+厦门卫视,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+厦门卫视,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221226996/index.m3u8
+厦门卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226964/index.m3u8
 厦门卫视,http://39.134.39.39/PLTV/88888888/224/3221225689/index.m3u8
-厦门卫视,http://183.207.248.104/ott.js.ch ... 21227604/index.m3u8
-厦门卫视,http://183.207.249.198/ott.js.ch ... 21226996/index.m3u8
-厦门卫视HD,http://39.135.53.194/ott.fj.chin ... 21226781/index.m3u8
+厦门卫视,http://183.207.248.104/ott.js.chinamobile.com/PLTV/3/224/3221227604/index.m3u8
+厦门卫视,http://183.207.249.198/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+厦门卫视HD,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 厦门卫视HD,http://223.110.241.137:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
 厦门卫视,http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 厦门卫视,https://live1.kxm.xmtv.cn/xmtv/tvzb/live.m3u8
