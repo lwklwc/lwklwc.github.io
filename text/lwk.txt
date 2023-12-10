@@ -3,7 +3,8 @@
 厦门一套,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
 厦门二套,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
 厦门三套,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
-
+厦门卫视,http://140.224.147.151:9999/rtp/239.61.2.11:8060
+厦门1套,http://140.224.147.151:9999/rtp/239.61.2.213:9266
 央视频道,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
