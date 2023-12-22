@@ -22,6 +22,7 @@
 厦门卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
 厦门卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226199/index.m3u8?zfud
 厦门卫视,http://117.148.179.157/PLTV/88888888/224/3221229184/index.m3u8?zfud
+厦门一套,https://xiamencncc.v.wscdns.com/atjtd/yhxmt1_1/index.m3u8
 厦门一套,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227185/index.m3u8?servicetype=1
 厦门一套,https://live1.kxm.xmtv.cn/xm1/tvzb/live.m3u8
 厦门一套,https://live1.kxm.xmtv.cn/xm1/playlist.m3u8
