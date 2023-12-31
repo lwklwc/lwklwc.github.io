@@ -1,0 +1,3 @@
+厦门频道,#genre#
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
