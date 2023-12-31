@@ -27,6 +27,22 @@
 民视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
 华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1049
 
+中视,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+中视,https://epg.pw/stream/c869c376ae69423ceabac16cb67456ba3976bc1bc8b517ac29f475479462100e.m3u8
+中视,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+中视,http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+中视,https://epg.pw/stream/4868f3c2ae2971b2e2280606399ac8827b7310440a7e34de3fbc9ebfbe669b15.m3u8
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+中视,https://ktpremium.com:443/M919HR/5577/515019?c=台湾
+中视,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
+中视,https://ktpremium.com:443/K3939/6757/515019
+中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+中视,https://epg.pw/stream/b94ea4e20a65910b6ed9b14584fdfbf5153004fb79e4e6f4c0d2e09903718e72.m3u8
+中视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=60
+中视2,https://epg.pw/stream/243172ee03b4a424681997f4cc1d936c9abc4070b5e4fd200eaf1f78d7ed8117.m3u8
+
+
 环球电视,http://live.cgtn.com/500/prog_index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
