@@ -1,6 +1,3 @@
-厦门频道,#genre#
-厦门卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
-厦门一套,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
 中央频道,#genre#
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://enlen.vip:4022/udp/239.200.200.70:8008
@@ -9,3 +6,19 @@ CCTV1,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440
 CCTV1,http://[2001:250:5800:1005::155]:80/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
 CCTV1,http://[2001:250:5800:1005::155]:80/liverespath/d655e6a30c2b338fe76bdc1ecf72b7f1c373c33b/index.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
+CCTV2,http://61.134.207.182:8084/rtp/226.0.2.19:8064
+CCTV2,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV2,http://61.134.207.182:8084/rtp/226.0.2.19:8064
+CCTV2,http://[2001:250:5800:1005::155]:80/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV2,http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+CCTV2,http://125.93.74.27:9002/tsfile/live/0002_1.m3u8
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
+CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV2,http://117.161.12.124/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV2,http://210.22.75.86:9901/tsfile/live/0002_1.m3u8
+CCTV2,http://123.184.28.50/hlslive-tx-cdn.ysp.cctv.cn/028/2024075403.m3u8
+CCTV2,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225487/index.m3u8
+CCTV2,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+CCTV2,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
