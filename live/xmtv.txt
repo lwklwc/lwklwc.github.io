@@ -22,24 +22,31 @@ CCTV2,http://123.184.28.50/hlslive-tx-cdn.ysp.cctv.cn/028/2024075403.m3u8
 CCTV2,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225487/index.m3u8
 CCTV2,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
 CCTV2,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
-IPV6,#genre#
-CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
-CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
-CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
+CCTV3,http://[2001:250:5800:1005::155]:80/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
+CCTV3,http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
+CCTV3,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
+CCTV3,http://www.lebaobei.top:6868/udp/239.255.29.12:8231
+CCTV3,http://171.122.158.51:8084/rtp/226.0.2.208:9576
+CCTV3,http://120.224.178.16:9901/tsfile/live/0003_1.m3u8
+CCTV3,http://121.33.239.242:9901/tsfile/live/0003_1.m3u8
+CCTV3,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
+CCTV3,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKj-zhD76MovL0d1TsmSbN5U/.m3u8
+CCTV3,http://117.161.12.124/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV3,http://home.isvvv.com:5050/itv/wasusyt/6000000001000022313
+CCTV3,http://home.isvvv.com:5050/itv/ystenlive/1000000005000265003
+CCTV3,http://18.162.122.10:5000/itv/wasusyt/6000000001000022313
+CCTV3,http://18.162.122.10:5000/itv/ystenlive/1000000005000265003
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV3,http://xyt.186738613.xyz/lngd.php?id=062&Cf.m3u8
+CCTV3,http://123.184.28.50/hlslive-tx-cdn.ysp.cctv.cn/043/2024068503.m3u8
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+CCTV3,https://test.zapi.us.kg/?id=cctv3
+CCTV3,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225558/index.m3u8
+CCTV3,http://183.61.247.138/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+CCTV3,http://116.148.164.119/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV3,http://175.8.213.198:8081/tsfile/live/0003_1.m3u8
+CCTV3,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+CCTV3,http://118.144.105.55:91/live/CCTV3hd-5M/live.m3u8
+CCTV3,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/CCTV-3H265_4000.m3u8
