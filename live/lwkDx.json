@@ -1,7 +1,8 @@
 厦门频道,#genre#
 厦门卫视,http://27.148.240.185/PLTV/88888888/224/3221226744/1.m3u8
 厦门卫视,http://223.76.131.67:5003/xmws.m3u8?token=7375646f317af870d42aa7d19a049aebe019693e&z=1f4e
-厦门一套,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
+厦门卫视,http://110.80.17.38:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门一套,http://218.104.239.114:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门一套,http://218.104.239.114:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门三套,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 厦门三套,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
